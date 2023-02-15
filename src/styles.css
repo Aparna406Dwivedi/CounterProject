@@ -1,0 +1,21 @@
+.app{
+    font-family: sans-serif;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    background-image:url("https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80");
+    flex-direction: column;
+    gap: 20px;
+    background-size: cover;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button{
+    background-color: rgb(114, 22, 109);
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
